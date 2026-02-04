@@ -1,0 +1,6 @@
+{
+  "page_id": "123456",
+  "before": "古いワード",
+  "after": "新しいワード",
+  "base_url": "https://confluence.example.com"
+}
